@@ -27,10 +27,35 @@ Pasta dia_02:
 
                 - lê um número fornecido pelo usuário e faz o cálculo
         
+        03_numericos.py
+
+                -mostra exemplos de tipos de número: int, float, bool
+        
+        04_logica.py
+
+                - demonstrativos de testes lógicos booleanos
+        
+        05_if.py
+
+                -teste da condição lógica do if retornando mensagem
+        
+        06_else.py
+
+                -faz o mesmo teste de idade usando o else. Otimizando o código
+
+        07_elif.py
+
+                -mesmo teste de idade, desta vez usando o elif quando há mais um teste a ser feito.
+
+        
 Pasta exercicios_dia_02
 
-        5 Execícios para fixação e prática
-        Destaque --> O exercício 4 mostra como arredondar um número usando round
+        Exercícios 01 a 05 --> Referentes a arquivos 01 e 02
+        Destaque --> O exercício 4 mostra como arredondar um número usando round.
+
+        
+
+
 
 
                 
