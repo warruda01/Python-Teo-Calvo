@@ -1,6 +1,9 @@
 # Python-Teo-Calvo
 
+Pasta dia_01:
+
 01 - Imprimindo na tela
+
 02  Operações numéricas
         Adição
         Subtração
@@ -11,4 +14,6 @@
         Potencia
 
 03 - Variáveis
+
+Pasta dia_02:
 
