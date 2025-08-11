@@ -52,6 +52,42 @@ Pasta exercicios_dia_02
 
         Exercícios 01 a 05 --> Referentes a arquivos 01 e 02
         Destaque --> O exercício 4 mostra como arredondar um número usando round.
+        Exercícios 06 a 08 --> Referentes a arquivos 03 e 04. Exercício 07 tem duas versões.
+        Exercício 08 foi melhorado com while True
+
+Pasta dia_03:
+
+        01_tabuada.py
+
+                - exemplo de tabuada usando While
+        
+        02_div_4.py
+
+                -usando mod (%) mostra os números divisíveis por 4
+        
+        03_for.py
+
+                -exemplo do uso do FoR, onde o controle letra percorre
+                o nome
+
+        04_tabuada_for.py
+
+                -exemplo de tabuada usando for, solicitando o número a
+                ser calculado e o número máximo.
+        
+        05_exercício de multiplos de {numero} usando o for
+
+                - Solicita um número {numero} e retorna os números pelos quais ele é divisível no intervalo entre 1 e o número máximo dado pelo usuário{max}
+        
+Pasta exercicios_dia_03:
+
+        Exercícios 02:
+                Soma de 4 alturas usando While
+                Soma de 4 aturas usando For
+        
+        Exercício 03:
+                Executa uma adição até ser vazio
+        
 
         
 
