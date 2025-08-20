@@ -77,7 +77,11 @@ Pasta dia_03:
         
         05_exercício de multiplos de {numero} usando o for
 
-                - Solicita um número {numero} e retorna os números pelos quais ele é divisível no intervalo entre 1 e o número máximo dado pelo usuário{max}
+                - Solicita um número {numero} e retorna os números pelos 
+                
+                quais ele é divisível no intervalo entre 1 e o número 
+                
+                máximo dado pelo usuário{max}
         
 Pasta exercicios_dia_03:
 
@@ -87,7 +91,39 @@ Pasta exercicios_dia_03:
         
         Exercício 03:
                 Executa uma adição até ser vazio
+
+
+Pasta dia_04
+
+        * listas.py 
+        - Criação de listas, consulta de type, 
+        - Soma, média, máxima, mínima, tamanho de listas
+        - consulta de listas dentro de outras listas.
+        - fatiamento de listas em ordem normal e inversa
+                #Fatiamento:
+
+                #Pegar os três primeiros elementos de uma lista
+                print(wil[:3])
+
+                #Pegar dois últimos traballhos da lista:
+                print(wil[4][-2:])
         
+                #Evolução do salário em ordem inversa
+                #Definindo salários:
+                salarios = wil[5]
+
+                #Apresentando na ordem inversa:
+                print(salarios[::-1]) #Padrão é de 1 em 1. MAs pode ser 2 em 2
+                # wil[start : stop: step]
+        
+        *idades.py
+        - Solicita idades ao usuário até ser "" usando estrutura de repetição While. Informa as estatísticas.
+        Shift+alt+I - atalho para 
+
+Pasta Exercícios dia_04
+        2_15.py
+                Programa recebe uma lista de números do usuário e conta quantas vezes um número específico aparece na lista
+                Resolução com lista.count(n) e "for elemento in lista:"
 
         
 
